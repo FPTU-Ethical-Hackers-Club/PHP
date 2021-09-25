@@ -1,7 +1,6 @@
 ## Đề bài
 
-Lập trình bằng ngôn ngữ tùy chọn (recommend ngôn ngữ PHP) (yêu cầu không sử dụng framework có sẵn), sử dụng DB MySQL để xây dựng website quản lý
-thông tin sinh viên, tài liệu của 1 lớp học có các chức năng như sau:
+Lập trình bằng ngôn ngữ ngôn ngữ PHP, yêu cầu không sử dụng framework có sẵn, khuyến khích code theo mô hình [MVC](https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD), sử dụng DB MySQL để xây dựng website quản lý thông tin sinh viên, tài liệu của 1 lớp học có các chức năng như sau:
 1. Giáo viên có thể thêm, sửa, xóa các thông tin của sinh viên. Thông tin có các trường cơ bản gồm: tên đăng nhập, mật khẩu, họ tên, email, số điện thoại.
 2. Sinh viên được phép thay đổi các thông tin của mình trừ tên đăng nhập và họ tên.
 3. 1 người dùng bất kỳ đc phép xem danh sách các người dùng trên website và xem thông tin chi tiết của 1 người dùng khác. Tại trang xem thông tin chi tiết của 1 người dùng có mục để lại tin nhắn cho người dùng đó, có thể sửa/xóa tin nhắn đã gửi.
