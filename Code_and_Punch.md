@@ -12,6 +12,5 @@ thông tin sinh viên, tài liệu của 1 lớp học có các chức năng nh�
   - Giáo viên tạo challenge, trong đó cần thực hiện: upload lên 1 file txt có nội dung là 1 bài thơ, văn,…, tên file được viết dưới định dạng không dấu và các từ cách nhau bởi 1 khoảng trắng. Sau đó nhập gợi ý về quyển sách và submit. (Đáp án chính là tên file mà giáo viên upload lên. Không lưu đáp án ra file, DB,...)).
   - Sinh viên xem gợi ý và nhập đáp án. Khi sinh viên nhập đúng thì trả về nội dung bài thơ, văn,… lưu trong file đáp án.
 
-Yêu cầu tối thiểu: đầy đủ hết cả 5 mục chức năng như trên. Khuyến khích tạo một hệ thống nhắn tin thời gian thực (real-time) nếu có dư thời gian (sẽ được bonus thêm điểm). 
-**Video demo sản phẩm mẫu** (chưa hoàn chỉnh tất cả các chức năng trên, đừng bắt chước làm gì @@): https://drive.google.com/file/d/1Y5JPIvLW4D66xHBhtuAMbs2sQNd4uaHf/view
+Yêu cầu tối thiểu: đầy đủ hết cả 5 mục chức năng như trên. Khuyến khích tạo một hệ thống nhắn tin thời gian thực (real-time) nếu có dư thời gian (sẽ được bonus thêm điểm). Có thể dựa vào **Video demo sản phẩm mẫu** (chưa hoàn chỉnh tất cả các chức năng trên, đừng bắt chước làm gì @@): https://drive.google.com/file/d/1Y5JPIvLW4D66xHBhtuAMbs2sQNd4uaHf/view
 
